@@ -14,7 +14,7 @@ img {
 }
 address{
     margin: 0;
-    padding: 15px;
+    padding: 15px 15px 2px;
     background-color: darkred;
     color: whitesmoke;
     text-align: right;
@@ -29,6 +29,17 @@ strong {
     color: darkred;
     margin: auto;
     background: whitesmoke;
-    padding: 15px 50px 0px;
+    padding: 10px 50px 0px;
     box-shadow: -2px 6px 18px 3px rgba(0, 0, 0, 0.75);
+}
+.logo {
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+}
+.logoImg {
+    margin: 0;
+    padding: 0;
+    width: 12%;
 }
